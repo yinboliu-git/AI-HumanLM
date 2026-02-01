@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Data files (large files not tracked)
+data/raw/*
+data/processed/*.npy
+data/processed/*.json
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# Logs
+*.log
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Keep structure
+!figures/.gitkeep
+
+# HuggingFace token (security)
+*token*
+*.env
