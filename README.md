@@ -122,7 +122,7 @@ If you use this code or dataset, please cite our paper:
 @article{liu2026autonomy,
   title={Autonomy Shapes Language: A Comparative Linguistic Topology of Autonomous AI, Directed AI, and Human Discourse},
   author={Liu, Yinbo and Gao, Handi and Ding, Yue},
-  journal={arXiv preprint arXiv:2026.XXXXX},
+  journal={ResearchGate preprint 10.13140/RG.2.2.26381.40165},
   year={2026}
 }
 ```
